@@ -19,10 +19,10 @@ Predicting **employee turnover** for *Portobello Tech* using machine learning to
 
 employee-turnover-analytics/
 │
-├── data/ # hr_data.csv
-├── docs/ # problem-statement
-├── notebooks/ # employee-turnover-analysis.ipynb
-└── README.md
+├── data/ # CSV dataset
+├── docs/ # Problem Statement
+├── notebook/ # Jupyter notebook
+└── README.md 
 
 ---
 
